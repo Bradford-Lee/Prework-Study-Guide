@@ -12,7 +12,7 @@ N/A
 
 See the below screenshot example of the project for reference. You may use this to review the notes for each application. To access this console panel on the right hand side for topics that were learned through the prework and a suggestion on what to study first, open the Chrome DevTools program by pressing ctrl+shift+I.  
 
-![alt text](assets/images/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/127280322/224525718-55953737-01dc-498d-b291-26a06d7a9b00.PNG)
 
 ## Credits
 
